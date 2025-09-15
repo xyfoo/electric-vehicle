@@ -18,7 +18,7 @@
 * SC can provide Battery health report?
 * Charging time
 * Charging curve for AC & DC?
-* Actual battery capacity vs net capacity?
+* Gross/Total battery capacity vs Net/Usable capacity? 60kWh is usable capacity?
 * Available mileage after batery hit 0%
 
 ## Maintenance

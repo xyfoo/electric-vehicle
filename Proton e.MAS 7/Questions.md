@@ -6,6 +6,7 @@
 * Will the brakelight comes on when u have heavy regen configured and you lift off the gas pedal?
 * How to allow driver to leave the car but keep the air-conditioned all going. Without draining the 12v battery.
 * Does the boot lid still stop opening process if there's something blocking?
+* is the door mechanically operated, i.e. it will work from both side even without the low voltage (12V0 battery) connected
 
 ## Infotainment Unit
 

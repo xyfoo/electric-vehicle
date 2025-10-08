@@ -11,6 +11,8 @@
 * How the thigh support for the rear passengers?
 * Does the indicator sound remained audible even if the driver turn the audio volume down, e.g., it played thru the car speaker instead of it's own audio device.
 * Does the sunroof near the rear seat rattles when going thru the bumps?
+* How to start/pause/resume on a slope?
+* Auto-hold feature & Electric parking brake (EPB)
 
 ## Infotainment Unit
 

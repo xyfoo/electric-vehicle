@@ -18,6 +18,8 @@
 
 * How do you reboot the car os? Can u do in during driving? I saw Volvo ex90 can do that and it doesn't affect the drive, it can still operate.
 * Dashcam installation?
+  * Will using the socket in the ADAS box void the warranty?
+  * Can the service center help to install our own dashcam, by routing the USB cable thru headliners and passenger side.
 * Which settings will be retained on restart
 
 ## Battery & Charging

@@ -29,7 +29,9 @@
 * Charging curve for AC & DC?
 * Gross/Total battery capacity vs Net/Usable capacity? 60kWh is usable capacity?
 * Available mileage after batery hit 0%
+  * Someone drove for 15km after hitting 0% battery, with speed limited to 50km/h then 20km/h.
 * Can you initiate/start a charging station during a heavy rain/storm? I understand in a minor rain/drizzle it should be okay, and if it rains after you've started charging it's probably fine.
+  * There's no issue. Watch Video [1](https://www.youtube.com/watch?v=kvSZHCgFqXc), [2](https://www.youtube.com/watch?v=Dld6TUX1Ku8), [3](https://www.youtube.com/watch?v=TWrO2dduI9A) & [4](https://www.youtube.com/watch?v=-ZmfQWKb-hk)
 
 ## Maintenance
 

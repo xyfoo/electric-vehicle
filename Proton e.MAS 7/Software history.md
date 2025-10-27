@@ -2,6 +2,12 @@
 
 Info collated from news report & owner group's posting
 
+## Flyme Auto S 1.1.9 Checksum?
+
+* Date: 2025 Oct 28
+* Changes
+  * ?
+
 ## Flyme Auto S 1.1.8 5CC38A72
 
 * Date: 2025 August

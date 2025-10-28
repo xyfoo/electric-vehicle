@@ -13,6 +13,8 @@
 * Does the sunroof near the rear seat rattles when going thru the bumps?
 * How to start/pause/resume on a slope?
 * Auto-hold feature & Electric parking brake (EPB)
+* How will ICC react if there's no hand on the steering wheel for extended period of time?
+  * It would slow down the vehicle gradually to a halt.
 
 ## Infotainment Unit
 
